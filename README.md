@@ -36,7 +36,7 @@ Este framework foi projetado para substituir a intuição por **dados**, permiti
 
 O framework executa os experimentos e gera um dashboard visual para comparar a performance (medida pelo F1-Score) de cada estratégia em todo o conjunto de testes.
 
-
+![Heatmap de Performance das Estratégias](https://github.com/YuriArduino/RAG_Evaluation_and_Hyperparameter_Tuning/blob/notebook(colab)/Resultado%20dos%20testes%203.png)
 
 ---
 
